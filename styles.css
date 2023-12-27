@@ -1,0 +1,63 @@
+
+  @import url('https://fonts.googleapis.com/css2?family=MuseoModerno&display=swap');
+  @import url('https://fonts.googleapis.com/css2?family=Stylish&display=swap');
+
+
+.container {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}
+
+.dice {
+  text-align: center;
+  display: inline-block;
+
+}
+
+body {
+  background-color: #393646;
+}
+
+h1 {
+  margin: 1px;
+  font-family:'MuseoModerno', sans-serif;
+  font-size: 6rem;
+  color: #f2f7f5;
+}
+.btn
+{
+  background: linear-gradient(to bottom right, #EF4765, #FF9A5A);
+  border: 0;
+  border-radius: 12px;
+  color: #FFFFFF;
+  cursor: pointer;
+  display: inline-block;
+  font-family: "Segoe UI",Roboto,Helvetica,Arial,sans-serif;
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 2.5;
+  letter-spacing: .3rem;
+  outline: transparent;
+  padding: 0 rem;
+  text-align: center;
+  transition: box-shadow .2s ease-in-out;
+
+}
+p {
+  font-size: 2rem;
+  color: #4ECCA3;
+  font-family:'Stylish', serif;;
+}
+
+img {
+  width: 80%;
+}
+
+footer {
+  margin-top: 5%;
+  color: #EEEEEE;
+  text-align: center;
+  font-family: 'Indie Flower', cursive;
+
+}
